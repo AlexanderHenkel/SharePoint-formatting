@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "background-color": "transparent"
+  },
+  "attributes": {
+    "class": "ms-fontColor-neutralPrimary ms-font-m"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "attributes": {
+        "iconName": "CityNext2",
+        "class": "ms-fontColor-neutralPrimary ms-font-l"
+      },
+      "style": {
+        "padding-right": "0.4em",
+        "display": "=if(Number(@currentField) == 0, 'none', 'inline')"
+      }
+    },
+    {
+      "elmType": "span",
+      "txtContent": "@currentField"
+    }
+  ]
+}
