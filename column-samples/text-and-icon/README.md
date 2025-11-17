@@ -1,14 +1,18 @@
 # Text and icon
 
 ## Image
-
+![screenshot of sample](./assets/text-and-icon.png)
 
 ## Summary
-This sample will add a single icon to a text column
+Add an icon next to a text column.
 
-## How to  
-_Change the icon?_
+## Column Types
+- Single line of text
+- Choice
 
-Change the **CityNext2** to the new icon.
+## How To
+To change the icon used in the formatting?
 
-Available icons can be found [here](https://flicon.io/)
+1. Open the column's formatting panel.
+2. Replace **CityNext2** with the desired icon name.
+3. Browse available icons at [flicon.io](https://flicon.io)
