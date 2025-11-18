@@ -1,14 +1,19 @@
 # SharePoint-formatting
 A collection of SharePoint formatting.
 
-## Find samples
-You can find an overview with sample images [here](./OVERVIEW.md)
+## Sample overview
+[An overview of all samples is available here](./OVERVIEW.md)
+
+## Assets
+
+* [Find icons at flicon.io](https://flicon.io/)
+* [JSON CSS classes](https://zerg00s.github.io/sp-modern-classes/)
 
 ## How to
 
 **Change the formatting for a column**
 
-1. Browse the [column samples](./column-samples/)  
+1. Browse the [column samples](./OVERVIEW.md)  
 
 2. Click on the column and go to **Column settings** > **Format this column**  
 ![](./assets/change-formatting-column.png)
