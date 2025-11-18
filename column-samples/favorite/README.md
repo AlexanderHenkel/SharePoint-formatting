@@ -7,7 +7,7 @@
 ## Summary
 Add a list item or file as a favorite.
 
-When the button is pressed the currently logged in user will be added/remove to a multi people field
+When the button is pressed the currently logged in user will be added or removed in a multi people field
 
 ## Requirements
 * The user must have edit/write privilege
