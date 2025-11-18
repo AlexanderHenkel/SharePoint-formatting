@@ -12,6 +12,10 @@
 [Date](./column-samples/date/)  
 ![screenshot of sample](./column-samples/date/assets/date.png)
 
+[Date counter](./column-samples/date-counter/)  
+![screenshot of sample](./column-samples/date-counter/assets/date-counter.png)  
+![screenshot of sample](./column-samples/date-counter/assets/date-counter-minus.png)
+
 [Favorite](./column-samples/favorite/)  
 ![screenshot of sample](./column-samples/favorite/assets/favorite-add.png)  
 ![screenshot of sample](./column-samples/favorite/assets/favorite-remove.png)  
