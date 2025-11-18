@@ -1,0 +1,56 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "align-items": "center",
+    "margin-top": "2px",
+    "margin-bottom": "2px"
+  },
+  "customRowAction": {
+    "action": "editProps"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "attributes": {
+        "class": "ms-bgColor-themePrimary ms-fontWeight-bold ms-bgColor-themeDarker--hover"
+      },
+      "style": {
+        "height": "30px",
+        "width": "2x",
+        "text-decoration": "none",
+        "display": "flex",
+        "align-items": "center",
+        "text-align": "center",
+        "justify-content": "center",
+        "margin": "5px",
+        "color": "#fff",
+        "border-radius": "3px",
+        "cursor": "pointer"
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "attributes": {
+            "iconName": "Edit",
+            "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover ms-font-m",
+            "title": "Details"
+          },
+          "style": {
+            "color": "#fff",
+            "flex": "none",
+            "margin-right": "8px",
+            "margin-left": "10px"
+          }
+        },
+        {
+          "elmType": "span",
+          "style": {
+            "margin-right": "10px"
+          },
+          "txtContent": "Edit properties"
+        }
+      ]
+    }
+  ]
+}

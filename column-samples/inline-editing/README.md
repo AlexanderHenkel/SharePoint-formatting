@@ -1,7 +1,7 @@
-# Inline editing
+# Edit properties
 
 ## Image
-![screenshot of sample](./assets/inline-editing.png)
+![screenshot of sample](./assets/inline-editing.png)  
 
 ## Summary
 A column can be directly edited without opening the details pane.
