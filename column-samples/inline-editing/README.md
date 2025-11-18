@@ -20,6 +20,6 @@ The inline editing can be added to any type of formatting by adding the **inline
   "inlineEditField": "@currentField",
 ```
 
-In the [inline-editing-other-example](inline.editing-other-example.json) the [date formatting](/column-samples/date/) has been changed to an inline editing field
+In the [inline-editing-other-example](inline-editing-other-example.json) the [date formatting](/column-samples/date/) has been changed to an inline editing field
 
 ![other formatting example](./assets/inline-editing-other-formatting.png)
