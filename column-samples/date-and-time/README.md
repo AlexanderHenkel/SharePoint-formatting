@@ -1,4 +1,4 @@
-# SVG icon
+# Date and time
 
 ## Image
 ![screenshot of sample](./assets/date-and-time.png)
