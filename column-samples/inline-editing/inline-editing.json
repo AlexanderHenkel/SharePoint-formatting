@@ -1,0 +1,22 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "inlineEditField": "@currentField",
+  "children": [
+    {
+      "elmType": "div",
+      "style": {
+        "display": "flex"
+      },
+      "attributes": {
+        "class": "ms-fontColor-neutralPrimary ms-font-m"
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "txtContent": "@currentField"
+        }
+      ]
+    }
+  ]
+}

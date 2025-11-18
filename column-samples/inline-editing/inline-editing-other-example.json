@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "inlineEditField": "@currentField",
+  "elmType": "div",
+  "children": [
+    {
+      "elmType": "div",
+      "style": {
+        "display": "flex",
+        "align-items": "center",
+        "margin": "3px"
+      },
+      "attributes": {
+        "class": "ms-fontColor-neutralPrimary ms-font-m"
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "attributes": {
+            "iconName": "Calendar",
+            "class": "ms-font-l"
+          },
+          "style": {
+            "display": "=if(Number(@currentField) == 0, 'none', 'inline')"
+          }
+        },
+        {
+          "elmType": "span",
+          "txtContent": "@currentField.displayValue",
+          "style": {
+            "margin-left": "8px"
+          }
+        }
+      ]
+    }
+  ]
+}
