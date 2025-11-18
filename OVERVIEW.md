@@ -6,3 +6,10 @@
 
 [Date and time](./column-samples/date-and-time/)  
 ![screenshot of sample](./column-samples/date-and-time/assets/date-and-time.png)
+
+[Date](./column-samples/date/)  
+![screenshot of sample](./column-samples/date/assets/date.png)
+
+[Date](./column-samples/favorite/)  
+![screenshot of sample](./column-samples/favorite/assets/favorite-add.png)  
+![screenshot of sample](./column-samples/favorite/assets/favorite-remove.png)  
