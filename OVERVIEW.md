@@ -19,4 +19,4 @@
 
 [Edit properties](./column-samples/edit-properties/)  
 ![screenshot of sample](./column-samples/edit-properties/assets/edit-properties-button.png)  
-![screenshot of sample](./column-samples/edit-properties/assets/edit-properties-text.png)  
+![screenshot of sample](./column-samples/edit-properties/assets/edit-properties-text.png)
