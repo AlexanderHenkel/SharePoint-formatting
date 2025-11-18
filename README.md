@@ -1,6 +1,9 @@
 # SharePoint-formatting
 A collection of SharePoint formatting.
 
+## Find samples
+You can find an overview with sample images [here](./OVERVIEW.md)
+
 ## How to
 
 **Change the formatting for a column**
