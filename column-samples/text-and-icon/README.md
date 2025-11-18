@@ -11,8 +11,7 @@ Add an icon next to a text column.
 - Choice
 
 ## How To
-To change the icon used in the formatting?
+Change the icon:
 
-1. Open the column's formatting panel.
+1. Browse available icons at [flicon.io](https://flicon.io)
 2. Replace **CityNext2** with the desired icon name.
-3. Browse available icons at [flicon.io](https://flicon.io)
