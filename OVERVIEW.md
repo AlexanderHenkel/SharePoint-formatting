@@ -10,6 +10,6 @@
 [Date](./column-samples/date/)  
 ![screenshot of sample](./column-samples/date/assets/date.png)
 
-[Date](./column-samples/favorite/)  
+[Favorite](./column-samples/favorite/)  
 ![screenshot of sample](./column-samples/favorite/assets/favorite-add.png)  
 ![screenshot of sample](./column-samples/favorite/assets/favorite-remove.png)  
