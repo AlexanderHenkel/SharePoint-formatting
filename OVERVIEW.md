@@ -14,5 +14,5 @@
 ![screenshot of sample](./column-samples/favorite/assets/favorite-add.png)  
 ![screenshot of sample](./column-samples/favorite/assets/favorite-remove.png)  
 
-[Inline editing](./column-samples/date/)  
+[Inline editing](./column-samples/inline-editing/)  
 ![screenshot of sample](./column-samples/inline-editing/assets/inline-editing.png)
