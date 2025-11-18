@@ -1,0 +1,72 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "children": [
+    {
+      "elmType": "div",
+      "style": {
+        "display": "=if(indexOf(@currentField.email , @me)>-1,'none','flex')",
+        "align-items": "center",
+        "margin": "3px",
+        "cursor": "pointer"
+      },
+      "attributes": {
+        "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover ms-font-m"
+      },
+      "customRowAction": {
+        "action": "setValue",
+        "actionInput": {
+          "Favorite": "=appendTo(@currentField.email , @me)"
+        }
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "attributes": {
+            "iconName": "FavoriteStar"
+          }
+        },
+        {
+          "elmType": "span",
+          "txtContent": "Add favorite",
+          "style": {
+            "margin-left": "4px"
+          }
+        }
+      ]
+    },
+    {
+      "elmType": "div",
+      "style": {
+        "display": "=if(indexOf(@currentField.email, '@me') > -1, 'flex', 'none')",
+        "align-items": "center",
+        "margin": "3px",
+        "cursor": "pointer"
+      },
+      "attributes": {
+        "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover ms-font-m"
+      },
+      "customRowAction": {
+        "action": "setValue",
+        "actionInput": {
+          "Favorite": "=removeFrom(@currentField.email , @me)"
+        }
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "attributes": {
+            "iconName": "Unfavorite"
+          }
+        },
+        {
+          "elmType": "span",
+          "txtContent": "Remove Favorite",
+          "style": {
+            "margin-left": "4px"
+          }
+        }
+      ]
+    }
+  ]
+}
