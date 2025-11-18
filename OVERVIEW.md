@@ -27,3 +27,6 @@
 
 [Open file](./library-samples/open-file/)  
 ![screenshot of sample](./library-samples/open-file/assets/open-file.png)
+
+[Download file](./library-samples/download-file/)  
+![screenshot of sample](./library-samples/download-file/assets/download-file.png)
